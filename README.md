@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Civil-Project-Blueprint-Verification-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Civil-Project-Blueprint-Verification-Software?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Civil-Project-Blueprint-Verification-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Civil-Project-Blueprint-Verification-Software?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Civil-Project-Blueprint-Verification-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Civil-Project-Blueprint-Verification-Software?style=flat-square&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Civil-Project-Blueprint-Verification-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Civil-Project-Blueprint-Verification-Software?style=flat-square&color=green" alt="Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Civil-Project-Blueprint-Verification-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square" alt="License" /></a>
@@ -79,9 +79,9 @@ Commercial cloud platforms providing site capture, AI-driven plan verification, 
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source implementations for self-hosted clash detection, IFC parsing, point-cloud inspection, spatial verification, and photogrammetry. Sorted in descending order by GitHub stars.
+Open-source implementations for self-hosted clash detection, IFC parsing, point-cloud inspection, spatial verification, and photogrammetry. Sorted in descending order by GitHub_Stars.
 
-| 📦 Repository | ⭐ Stars | 📜 License | 🛠️ Description & Role in Verification |
+| 📦 Repository | ⭐ GitHub_Stars | 📜 License | 🛠️ Description & Role in Verification |
 | :--- | :--- | :--- | :--- |
 | **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** | [![Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers) | LGPL-2.0-or-later | General-purpose parametric 3D CAD modeler with dedicated BIM and Arch workbenches. Capable of importing IFC models, checking geometrical intersections, and validating structural elements against design blueprints. |
 | **[QGIS](https://github.com/qgis/QGIS)** | [![Stars](https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white)](https://github.com/qgis/QGIS/stargazers) | GPL-2.0-or-later | Enterprise-grade Geographic Information System (GIS) used for geospatial utility conflict detection, civil topography verification, underground right-of-way easement validation, and cadastral blueprint overlays. |
